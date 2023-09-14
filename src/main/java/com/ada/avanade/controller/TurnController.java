@@ -8,7 +8,6 @@ import lombok.RequiredArgsConstructor;
 @RestController
 @RequestMapping("/turn")
 @RequiredArgsConstructor
-
 public class TurnController {
     
 }

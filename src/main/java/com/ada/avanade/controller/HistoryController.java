@@ -8,7 +8,6 @@ import lombok.RequiredArgsConstructor;
 @RestController
 @RequestMapping("/history")
 @RequiredArgsConstructor
-
 public class HistoryController {
     
 }
