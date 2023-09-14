@@ -30,6 +30,7 @@ git clone git@github.com:brunaminusso/avanade.git
 2.Compile o projeto:
 mvn clean install
 3.Execute o jogo:
+Execute o GameRun.java
 
 Siga as instruções no console para começar a jogar!
 
